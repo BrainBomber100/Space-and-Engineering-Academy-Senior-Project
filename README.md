@@ -8,3 +8,5 @@ My team's project was a Harry Potter-themed bookcase that specifically held each
 The bookcase was delivered to our city's public library to enhance the sense of immersion of the Harry Potter World for children in hopes of enticing them to read the series. My team spent a total of 400+ hours on the project, including my personal share of about 250 hours.
 
 This was by far the hardest project I have ever worked on with my team. We encountered countless problems on the way, in regards to mechanics, structure, and electronics. However, this was also the best learning experience I could've asked for, and it taught me a lot of lessons that I will definitely keep for the future.
+
+To read a full breakdown of how we built this project, please read the repository's Wiki page, which can be accessed through the Wiki taskbar up at the top.
